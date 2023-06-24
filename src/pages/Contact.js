@@ -6,7 +6,7 @@ const Contact = () => {
    
     <div>
         <div className='Rooms'>
-        <h1>Our Jeans Collection</h1>
+        <h1>Contact Us</h1>
             <div className='line'></div>
         </div>
    
