@@ -6,7 +6,7 @@ const Product = () => {
 
     return (
         <div class="Rooms">
-            <h1>Our Jeans Collection</h1>
+            <h1>Products</h1>
             <div className='line'></div>
 
             <Fragment>
